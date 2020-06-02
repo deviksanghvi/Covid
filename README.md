@@ -1,2 +1,3 @@
-# Covid
-Web development project with my new coding ninjas friends.
+# covid
+
+https://snh3003.github.io/covid/
